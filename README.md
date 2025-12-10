@@ -19,3 +19,16 @@ It is implemented using Python in a Jupyter Notebook (Web_scraping_prices.ipynb)
 ▫️Jupyter Notebook  
 ▫️Pandas  
 ▫️Requests/BeautifulSoup  
+
+## 📌 How to Use
+### 1️⃣ Clone repository
+🔹git clone https://github.com/BirajDas27/Web-Scraper-Python.git
+
+### 2️⃣ Install dependencies
+🔹pip install pandas  
+🔹pip install requests  
+🔹pip install beautifulsoup4  
+🔹pip install jupyter  
+
+### 3️⃣ Run notebook
+🔹jupyter notebook Web_scraping_prices.ipynb
