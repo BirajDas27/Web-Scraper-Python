@@ -6,4 +6,4 @@ It is implemented using Python in a Jupyter Notebook (Web_scraping_prices.ipynb)
 
 ## 📂 Project Structure
 
-![](screenshots/project structure.png)
+![](screenshots/project_structure.png)
