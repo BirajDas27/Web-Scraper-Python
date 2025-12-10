@@ -13,3 +13,9 @@ It is implemented using Python in a Jupyter Notebook (Web_scraping_prices.ipynb)
 ✔ Saves results as CSV  
 ✔ Clean, reusable scraping method  
 ✔ Notebook demonstrates logic and verification  
+
+## 🛠️ Technologies Used
+▫️Python  
+▫️Jupyter Notebook  
+▫️Pandas  
+▫️Requests/BeautifulSoup  
