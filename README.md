@@ -7,3 +7,9 @@ It is implemented using Python in a Jupyter Notebook (Web_scraping_prices.ipynb)
 ## 📂 Project Structure
 
 ![](screenshots/project_structure.png)
+
+## ✨ Features
+✔ Scrapes required details from provided container names that contains the data
+✔ Saves results as CSV
+✔ Clean, reusable scraping method
+✔ Notebook demonstrates logic and verification
