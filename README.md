@@ -38,3 +38,10 @@ It is implemented using Python in a Jupyter Notebook (Web_scraping_prices.ipynb)
 🔸Preview example:  
     import pandas as pd  
     pd.read_csv("books_all.csv").head()
+
+## 📸 Screenshots & Results
+### Code to extract key details
+![](screenshots/extracting_data.png)
+
+### Result CSV
+![](screenshots/structured_csv.png)
