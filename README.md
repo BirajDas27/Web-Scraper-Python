@@ -44,4 +44,4 @@ It is implemented using Python in a Jupyter Notebook (Web_scraping_prices.ipynb)
 ![](screenshots/extracting_data.png)
 
 ### Result CSV
-![](screenshots/extracted_csv.png)
+![](screenshots/structured_csv.png)
