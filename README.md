@@ -5,3 +5,5 @@ This project performs web scraping to collect required details from online sourc
 It is implemented using Python in a Jupyter Notebook (Web_scraping_prices.ipynb).
 
 ## 📂 Project Structure
+
+![](screenshots/project_structure.png)
