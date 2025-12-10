@@ -1,0 +1,21 @@
+Project: E-commerce Product Scraper
+✅ Project Name
+
+E-commerce Product Scraper
+
+📖 Description
+
+This project scrapes product details (name, price, rating, link, etc.) from Flipkart/Amazon using Python Requests + BeautifulSoup.
+It allows users to input a search query (e.g., "laptop", "mobile"), fetch product listings, and display the results.
+
+🛠️ Tools / Concepts Used
+
+Python
+
+Requests (for fetching HTML pages)
+
+BeautifulSoup (bs4) (for parsing HTML)
+
+File Handling (CSV export)
+
+Exception Handling
