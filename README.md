@@ -35,6 +35,6 @@ It is implemented using Python in a Jupyter Notebook (Web_scraping_prices.ipynb)
 
 ## 📊 Output
 🔸Data is stored in books_all.csv.
-🔸Preview example:
-    import pandas as pd
+🔸Preview example:  
+    import pandas as pd  
     pd.read_csv("books_all.csv").head()
