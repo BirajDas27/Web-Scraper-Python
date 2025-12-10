@@ -50,3 +50,9 @@ It is implemented using Python in a Jupyter Notebook (Web_scraping_prices.ipynb)
 🔹 Add scraper for multiple websites  
 🔹 Automate periodic scraping  
 🔹 Visualize price trends  
+
+## 🤝 Contribution
+Fork & improve! PRs welcome 😊
+
+## 📜 License
+Open-source — feel free to reuse.
